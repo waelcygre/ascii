@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1579905095 source:f:\code\prog\ascii\ascii_art\main.cpp
+1580071039 source:f:\code\prog\ascii\ascii_art\main.cpp
 	<iostream>
-	<opencv2/highgui/highgui.hpp>
+	<opencv.hpp>
 
